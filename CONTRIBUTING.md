@@ -36,7 +36,7 @@ TalkTitle_SpeakerName.pdf
    Write a meaningful commit message like:
 
 ```
-Added slides for "Intro to Linux" – July 2025
+Add slides for "Intro to Linux" – July 2025
 ```
 
 6. **Open a Pull Request (PR)**
