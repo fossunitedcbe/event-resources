@@ -28,12 +28,17 @@ Each folder contains the materials from that specific meetup month.
 We encourage all speakers and community members to contribute their presentation materials.
 ➡️ Please check our [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed steps.
 
+## 🌟 Contributors
+<a href="https://github.com/fossunitedcbe/event-resources/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=fossunitedcbe/event-resources" />
+</a>
+
 **Lets join hands to build & promote FOSS Ecosystem in Coimbatore.**
 
 ---
 
 <footer>
 <center>
-<strong>United By FOSS 🤝 </strong>
+<strong>United By FOSS 🤍 </strong>
 </center>
 </footer>
